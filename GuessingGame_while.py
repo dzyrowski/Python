@@ -15,7 +15,8 @@ while True:   #loops the game around again until the correct number is guessed
     elif (guess > x):
         print("Your number is too big.")
         guess = int(input("Guess again: "))
+        
     else:
-        print(" Congrats, you guessed the number, it was", guess)
+        print("Congrats, you guessed the number, it was", guess)
         break 
 
