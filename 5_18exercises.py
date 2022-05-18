@@ -3,6 +3,3 @@ def hello_world():
 
 greeting = hello_world()
 print(greeting)
-
-
-
