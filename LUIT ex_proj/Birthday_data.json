@@ -1,6 +1,5 @@
-[
     {
-        "Name": "Dana Gibson",
+        "Person": "Dana Gibson",
         "Year": 1980,
         "info": {
             "Month": "July",
@@ -8,7 +7,7 @@
         }
     },
     {
-        "Name": "Amy Gibson",
+        "Person": "Amy Gibson",
         "Year": 1982,
         "info": {
             "Month": "September",
@@ -16,7 +15,7 @@
         }
     },
     {
-        "Name": "William Gibson",
+        "Person": "William Gibson",
         "Year": 2014,
         "info": {
             "Month": "January",
@@ -24,7 +23,7 @@
         }
     },
     {
-        "Name": "Rosalie Gibson",
+        "Person": "Rosalie Gibson",
         "Year": 2015,
         "info": {
             "Month": "January",
@@ -32,7 +31,7 @@
         }
     },
     {
-        "Name": "Zach Gibson",
+        "Person": "Zach Gibson",
         "Year": 2016,
         "info": {
             "Month": "March",
@@ -40,7 +39,7 @@
         }
     },
     {
-        "Name": "Kiyah Gibson",
+        "Person": "Kiyah Gibson",
         "Year": 2016,
         "info": {
             "Month": "September",
@@ -48,7 +47,7 @@
         }
     },
     {
-        "Name": "Richard Zyrowski",
+        "Person": "Richard Zyrowski",
         "Year": 1950,
         "info": {
             "Month": "Febuary",
@@ -56,7 +55,7 @@
         }
     },
     {
-        "Name": "Christine Zyrowski",
+        "Person": "Christine Zyrowski",
         "Year": 1952,
         "info": {
             "Month": "January",
@@ -64,7 +63,7 @@
         }
     },
     {
-        "Name": "Dennis Zyrowski",
+        "Person": "Dennis Zyrowski",
         "Year": 1970,
         "info": {
             "Month": "September",
@@ -72,7 +71,7 @@
         }
     },
     {
-        "Name": "Denise Woodruff",
+        "Person": "Denise Woodruff",
         "Year": 1974,
         "info": {
             "Month": "January",
@@ -80,7 +79,7 @@
         }
     },
     {
-        "Name": "Debbie VanOrder",
+        "Person": "Debbie VanOrder",
         "Year": 1975,
         "info": {
             "Month": "January",
