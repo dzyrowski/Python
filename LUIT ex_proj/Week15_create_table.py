@@ -6,7 +6,7 @@ table = dynamodb.create_table(
     TableName='Birthdays',
     KeySchema=[
         {
-            'AttributeName': 'Name',
+            'AttributeName': 'Person',
             'KeyType': 'HASH'  #Partition key
         },
         {
@@ -16,11 +16,11 @@ table = dynamodb.create_table(
     ],
     AttributeDefinitions=[
         {
-            'AttributeName': 'Name',
+            'AttributeName': 'Person',
             'AttributeType': 'S'
         },
         {
-            'AttributeName': 'Year',
+            'AttributeName': 'Birthyear',
             'AttributeType': 'N'
         },
     ],

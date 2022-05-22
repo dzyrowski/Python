@@ -8,15 +8,15 @@ table = dynamodb.Table('Birthdays')
 with open("Birthday_data.json") as json_file:
     Birthdays = json.load(json_file)
     for Birthday in Birthdays:
-        Name = Birthday['Name'] 
+        Person = Birthday['Person'] 
         Year = int(Birthday['Year'])
         info = Birthday['info']
 
-        print("Adding person:", Name, Year)
+        print("Adding person:", Person, Year)
 
         table.put_item(
            Item={
-               'Name': Name,
+               'Person': Person,
                'Year': Year,
                'info': info,
             }
