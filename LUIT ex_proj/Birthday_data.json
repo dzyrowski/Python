@@ -1,6 +1,7 @@
+[
     {
         "Person": "Dana Gibson",
-        "Year": 1980,
+        "Birthyear": 1980,
         "info": {
             "Month": "July",
             "Date": 2
@@ -8,7 +9,7 @@
     },
     {
         "Person": "Amy Gibson",
-        "Year": 1982,
+        "Birthyear": 1982,
         "info": {
             "Month": "September",
             "Date": 8
@@ -16,7 +17,7 @@
     },
     {
         "Person": "William Gibson",
-        "Year": 2014,
+        "Birthyear": 2014,
         "info": {
             "Month": "January",
             "Date": 22
@@ -24,7 +25,7 @@
     },
     {
         "Person": "Rosalie Gibson",
-        "Year": 2015,
+        "Birthyear": 2015,
         "info": {
             "Month": "January",
             "Date": 11
@@ -32,7 +33,7 @@
     },
     {
         "Person": "Zach Gibson",
-        "Year": 2016,
+        "Birthyear": 2016,
         "info": {
             "Month": "March",
             "Date": 9
@@ -40,7 +41,7 @@
     },
     {
         "Person": "Kiyah Gibson",
-        "Year": 2016,
+        "Birthyear": 2016,
         "info": {
             "Month": "September",
             "Date": 30
@@ -48,7 +49,7 @@
     },
     {
         "Person": "Richard Zyrowski",
-        "Year": 1950,
+        "Birthyear": 1950,
         "info": {
             "Month": "Febuary",
             "Date": 4
@@ -56,7 +57,7 @@
     },
     {
         "Person": "Christine Zyrowski",
-        "Year": 1952,
+        "Birthyear": 1952,
         "info": {
             "Month": "January",
             "Date": 15
@@ -64,7 +65,7 @@
     },
     {
         "Person": "Dennis Zyrowski",
-        "Year": 1970,
+        "Birthyear": 1970,
         "info": {
             "Month": "September",
             "Date": 9
@@ -72,7 +73,7 @@
     },
     {
         "Person": "Denise Woodruff",
-        "Year": 1974,
+        "Birthyear": 1974,
         "info": {
             "Month": "January",
             "Date": 6
@@ -80,7 +81,7 @@
     },
     {
         "Person": "Debbie VanOrder",
-        "Year": 1975,
+        "Birthyear": 1975,
         "info": {
             "Month": "January",
             "Date": 22
