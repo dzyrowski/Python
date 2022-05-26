@@ -7,11 +7,11 @@ response = client.query(
     TableName='Birthdays',
     ExpressionAttributeValues={
         ':ident':{
-            'S': 'Dana Gibson',
+            'S': 'Amy Gibson',
         },
     },
     KeyConditionExpression='Person = :ident',
-    ProjectionExpression='Year'
+    ProjectionExpression='Birthyear'
 )
 
 print(response['Items'])

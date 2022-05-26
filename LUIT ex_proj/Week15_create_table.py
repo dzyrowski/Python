@@ -10,7 +10,7 @@ table = dynamodb.create_table(
             'KeyType': 'HASH'  #Partition key
         },
         {
-            'AttributeName': 'Year',
+            'AttributeName': 'Birthyear',
             'KeyType': 'RANGE'  #Sort key
         }
     ],
