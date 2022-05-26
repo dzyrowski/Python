@@ -9,15 +9,15 @@ with open("Birthday_data.json") as json_file:
     Birthdays = json.load(json_file)
     for Birthday in Birthdays:
         Person = Birthday['Person'] 
-        Year = int(Birthday['Year'])
+        Birthyear = int(Birthday['Birthyear'])
         info = Birthday['info']
 
-        print("Adding person:", Person, Year)
+        print("Adding person:", Person, Birthyear)
 
         table.put_item(
            Item={
                'Person': Person,
-               'Year': Year,
+               'Birthyear': Birthyear,
                'info': info,
             }
         )
