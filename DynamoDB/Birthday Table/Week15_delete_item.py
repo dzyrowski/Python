@@ -7,5 +7,3 @@ response = client.delete_item(
     Key={'Person': {'S': 'Dennis Zyrowski'}, 'Birthyear': {'N': '1970'}, 
     }
 )
-
-    
