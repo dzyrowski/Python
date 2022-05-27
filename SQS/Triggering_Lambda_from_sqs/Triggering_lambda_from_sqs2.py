@@ -19,7 +19,7 @@ def lambda_handler(event, context):
         # Write message to DynamoDB
         table = dynamodb.Table(DYNAMODB_TABLE)
 
-       response = table.put_item(
+        response = table.put_item(
             Item={
                 'MessageId': message.message_id,
                 'Body': message.body,
